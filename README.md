@@ -7,17 +7,17 @@ Gothons From Planet Percal, a simple adventure game build by python. This is int
 Install python 2 (if not exist)
 
 **mac os**
-```
+
 Download [here](https://www.python.org/downloads/mac-osx/)
-```
+
 **linux**
 ```
 sudo apt-get install python2.6
 ```
 **windows**
-```
+
 Download [here](https://www.python.org/downloads/windows/)
-```
+
 
 ### How to run 
 
